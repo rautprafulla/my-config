@@ -1,2 +1,2 @@
-some.property= service data from prod
-my.data=my data from prod
+mydata.property=prafulla prod
+mydata.data.final=orderservice prod
